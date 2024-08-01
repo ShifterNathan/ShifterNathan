@@ -10,7 +10,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://nodejs.org/static/logos/nodejsStackedLight.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://nodejs.org/static/logos/nodejsStackedDark.svg">
-        <a href=""><img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="130" alt="NodeJS logo";"></a>
+        <a href="https://nodejs.org/en"><img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="130" alt="NodeJS logo";"></a>
     </picture>
     <span>&nbsp &nbsp &nbsp &nbsp</span>
     <picture>
