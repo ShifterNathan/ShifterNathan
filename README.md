@@ -18,10 +18,6 @@
     </picture>
     <span>&nbsp &nbsp &nbsp &nbsp</span>
     <picture>
-        <a href="https://expressjs.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="120" alt="ExpressJS logo" /></a>
-    </picture>
-    <span>&nbsp &nbsp &nbsp &nbsp</span>
-    <picture>
         <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" 
         width="100" alt="NestJS logo" /></a>
     </picture>
